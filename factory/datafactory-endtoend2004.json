@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-endtoend2004",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5942f419-0f78-4647-b83b-6f9f28198c11",
+		"tenantId": "e14e73eb-5251-4388-8d67-8f9f2e2d5a46"
+	}
+}
