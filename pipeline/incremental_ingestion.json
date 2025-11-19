@@ -64,7 +64,7 @@
 						"type": "DatasetReference",
 						"parameters": {
 							"container": "bronze",
-							"folder": "monitor",
+							"folder": "Monitor",
 							"file": "cdc.json"
 						}
 					},
