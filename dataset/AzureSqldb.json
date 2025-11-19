@@ -1,0 +1,12 @@
+{
+	"name": "AzureSqldb",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "sqldbls",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	}
+}
