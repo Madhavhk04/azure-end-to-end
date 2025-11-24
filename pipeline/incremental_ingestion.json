@@ -113,6 +113,11 @@
 				"type": "string"
 			}
 		},
+		"variables": {
+			"Set variable": {
+				"type": "String"
+			}
+		},
 		"annotations": []
 	}
 }
