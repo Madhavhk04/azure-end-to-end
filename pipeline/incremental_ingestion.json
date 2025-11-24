@@ -5,8 +5,6 @@
 			{
 				"name": "SQLtoDataLake",
 				"type": "Copy",
-				"state": "Inactive",
-				"onInactiveMarkAs": "Succeeded",
 				"dependsOn": [
 					{
 						"activity": "cdc",
